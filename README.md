@@ -6,4 +6,4 @@ Everything is built from public sources and uses fictional sample data only. I r
 
 ## Editions
 
-_Editions are added daily. The first one lands today._
+- 2026-11-13 | CVE-2026-119618, critical RCE in Apache HTTP Server mod_http2 | [2026-11-13-cve-2026-119618](2026-11-13-cve-2026-119618/)
