@@ -7,3 +7,4 @@ Everything is built from public sources and uses fictional sample data only. I r
 ## Editions
 
 - 2026-11-13 | CVE-2026-119618, critical RCE in Apache HTTP Server mod_http2 | [2026-11-13-cve-2026-119618](2026-11-13-cve-2026-119618/)
+- 2026-11-14 | Android clipboard read toast bypass, Moderate severity, Won't Fix | [2026-11-14-android-clipboard-toast-bypass](2026-11-14-android-clipboard-toast-bypass/)
