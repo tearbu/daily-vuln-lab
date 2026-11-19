@@ -1,0 +1,7 @@
+host,nginx_version,http2,role
+edge-proxy-01,1.25.3,on,proxy
+web-static-02,1.27.1,on,static
+api-gw-03,1.30.7,on,proxy
+legacy-cdn-04,1.25.3,off,proxy
+edge-proxy-05,1.31.9,on,proxy
+old-intranet-06,1.18.0,on,static
