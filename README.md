@@ -10,3 +10,5 @@ Everything is built from public sources and uses fictional sample data only. I r
 - 2026-11-14 | Android clipboard read toast bypass, Moderate severity, Won't Fix | [2026-11-14-android-clipboard-toast-bypass](2026-11-14-android-clipboard-toast-bypass/)
 - 2026-11-15 | Coruna iOS exploit kit delivered through hacked ads on Dutch news sites | [2026-11-15-coruna-ios-malvertising](2026-11-15-coruna-ios-malvertising/)
 - 2026-11-16 | NoisyTCP, Linux kernel TCP pre-auth remote corruption, CVE-2026-99288 | [2026-11-16-cve-2026-99288](2026-11-16-cve-2026-99288/)
+- 2026-11-17 | CVE-2026-90436, critical unauthenticated RCE in Apache Axis 1.x, exploited against Confluence Data Center and N-able N-central | [2026-11-17-cve-2026-90436](2026-11-17-cve-2026-90436/)
+- 2026-11-18 | Java4Shell, pre-auth RCE in the OpenJDK Base64 decoder, CVE-2026-114938 | [2026-11-18-cve-2026-114938](2026-11-18-cve-2026-114938/)
