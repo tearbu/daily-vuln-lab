@@ -13,3 +13,4 @@ Everything is built from public sources and uses fictional sample data only. I r
 - 2026-11-17 | CVE-2026-90436, critical unauthenticated RCE in Apache Axis 1.x, exploited against Confluence Data Center and N-able N-central | [2026-11-17-cve-2026-90436](2026-11-17-cve-2026-90436/)
 - 2026-11-18 | Java4Shell, pre-auth RCE in the OpenJDK Base64 decoder, CVE-2026-114938 | [2026-11-18-cve-2026-114938](2026-11-18-cve-2026-114938/)
 - 2026-11-19 | NGINX2Root, unauthenticated RCE in NGINX, CVE-2026-123633 and CVE-2026-123007 | [2026-11-19-nginx2root](2026-11-19-nginx2root/)
+- 2026-11-20 | CVE-2026-123890, unauthenticated authentication bypass in VMware vCenter, exploited as a zero-day by ARMORY CASTLE | [2026-11-20-cve-2026-123890](2026-11-20-cve-2026-123890/)
