@@ -14,3 +14,4 @@ Everything is built from public sources and uses fictional sample data only. I r
 - 2026-11-18 | Java4Shell, pre-auth RCE in the OpenJDK Base64 decoder, CVE-2026-114938 | [2026-11-18-cve-2026-114938](2026-11-18-cve-2026-114938/)
 - 2026-11-19 | NGINX2Root, unauthenticated RCE in NGINX, CVE-2026-123633 and CVE-2026-123007 | [2026-11-19-nginx2root](2026-11-19-nginx2root/)
 - 2026-11-20 | CVE-2026-123890, unauthenticated authentication bypass in VMware vCenter, exploited as a zero-day by ARMORY CASTLE | [2026-11-20-cve-2026-123890](2026-11-20-cve-2026-123890/)
+- 2026-11-21 | CVE-2026-28400, Docker Model Runner argument injection leading to container escape and host code execution | [2026-11-21-cve-2026-28400](2026-11-21-cve-2026-28400/)
