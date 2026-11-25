@@ -35,3 +35,4 @@ The limits are plain. These are one-sitting studies built from public sources, n
 - 2026-11-22 | CVE-2026-125396, Upload2Shell, Ghostscript use-after-free and -dSAFER bypass leading to RCE through file uploads | [2026-11-22-cve-2026-125396](2026-11-22-cve-2026-125396/)
 - 2026-11-23 | ruby2shell, heap buffer overflow in Ruby string case conversion leading to pre-auth RCE in default Rails and Sinatra apps, CVE-2026-132825 | [2026-11-23-cve-2026-132825](2026-11-23-cve-2026-132825/)
 - 2026-11-24 | CVE-2026-124851, Zstandard information disclosure, crafted compressed data leaks a 64 KiB buffer through decompressed output, fixed in 1.6.0 | [2026-11-24-cve-2026-124851](2026-11-24-cve-2026-124851/)
+- 2026-11-25 | CVE-2026-76466, unauthenticated root RCE in Cisco Expressway clusters, actively exploited and on the CISA KEV list | [2026-11-25-cve-2026-76466](2026-11-25-cve-2026-76466/)
